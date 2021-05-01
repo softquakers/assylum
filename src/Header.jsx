@@ -72,7 +72,7 @@ const Header = props => {
 
                 <div>
                     <Typography variant="h3" className={classes.title} style={{ textAlign:'center',color: '#000' ,minHeight:'40px' ,width:'100%'}}>
-                        Assylum
+                        AXL
                     </Typography><br/>
                 </div>
                 <Toolbar>
